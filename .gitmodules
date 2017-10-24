@@ -1,0 +1,3 @@
+[submodule "ChR2"]
+	path = ChR2
+	url = https://github.com/jjosik/vhlab
